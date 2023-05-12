@@ -10,6 +10,8 @@
 -   slide: [01-Computer_Science_1pp.pdf](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/01_1pp.pdf)
 -   Readings: [Ch. 1.1](http://composingprograms.com/pages/11-getting-started.html) | [Ch. 1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
 -   Disc 00: [Getting Started](https://cs61a.org/disc/disc00/) | [Video](https://www.youtube.com/watch?v=-R6QxibCwpk)
+-   Study notes: 
+    -   [Can I open a file located on internet with url link?](Can-I-open-a-file-located-on-internet-with-url-link.md)
 
 **Resources**
 
