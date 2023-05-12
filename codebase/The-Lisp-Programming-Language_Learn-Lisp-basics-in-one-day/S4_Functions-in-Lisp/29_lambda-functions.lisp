@@ -1,0 +1,1 @@
+(write ((lambda (a b) (* b (+ a b))) 3 2))

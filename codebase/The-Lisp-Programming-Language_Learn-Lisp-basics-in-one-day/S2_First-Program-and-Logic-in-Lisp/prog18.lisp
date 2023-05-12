@@ -1,0 +1,5 @@
+(setq x 40)
+(case x (20 (format t "x is 20"))
+(30 (format t "x is 30"))
+(40 (format t "x is 40"))
+(otherwise (format t "x is other number")))
