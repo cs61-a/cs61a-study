@@ -8,7 +8,7 @@ This is CS61A solution about  homework, lab, discussion, project etc.
 
 -   [https://cs61a.org](https://cs61a.org/)
 
--   [Study Guild](contents/cs61a_fa23/Readme.md)
+-   [Study Notes](contents/cs61a_fa23/Readme.md)
 
 -   [Calendar: Fall 2023](calendar/Fall-2023_Calendar.md)
 
