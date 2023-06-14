@@ -51,6 +51,11 @@
   <summary> Week 3 </summary>
 
 **Class Material**
+-   slide: [06 Higher-Order Environments](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/06_1pp.pdf) | [07 Functional Abstraction](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/07_1pp.pdf) | [08 Midterm Review](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/08_1pp.pdf)
+-   [ch. 1.6](http://composingprograms.com/pages/16-higher-order-functions.html) 
+-   Disc 02: [Environment Diagrams, Higher-Order Functions](https://inst.eecs.berkeley.edu/~cs61a/sp23/disc/disc02/) | [Video](https://youtube.com/playlist?list=PLx38hZJ5RLZdG_UEJFmM94bz5NgXlOtpT) | [Solutions]()
+-   Study notes: 
+    -   []()
 
 **Resources**
 
