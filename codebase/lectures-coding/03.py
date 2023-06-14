@@ -177,3 +177,4 @@ def reasonable(n):
     False
     """
     return n == 0 or 1/n != 0.0
+

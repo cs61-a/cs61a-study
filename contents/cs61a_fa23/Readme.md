@@ -51,6 +51,17 @@
   <summary> Week 3 </summary>
 
 **Class Material**
+-   slide: [03 Control](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/03_1pp.pdf) | [04-Environments](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/04_1pp.pdf) | [05-Higher-Order-Functions](https://ucb-courses.s3.us-west-1.amazonaws.com/CS61A/sp2023/slides/05_1pp.pdf)
+-   Readings: [Ch. 1.3](http://composingprograms.com/pages/13-defining-new-functions.html) | [ch. 1.6](http://composingprograms.com/pages/16-higher-order-functions.html) |[Ch. 1.4](http://composingprograms.com/pages/14-designing-functions.html) | [Ch. 1.5](http://composingprograms.com/pages/15-control.html)
+-   Disc 01: [Control, Environment Diagrams ](https://cs61a.org/disc/disc01/) | [Video](https://youtube.com/playlist?list=PLx38hZJ5RLZeq0FTNCoe7E2I75i110I2w) | [Solutions]()
+-   Study notes: 
+    -   [1.3.0 What is environment diagram in Python?](1.3.0_Environments.md)
+
+**Resources**
+
+## Week 3
+
+**Class Material**
 
 **Resources**
 
